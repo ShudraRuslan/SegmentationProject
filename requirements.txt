@@ -1,0 +1,5 @@
+Required Python modules:
+1. os
+2. numpy
+3. PIL
+4. tensorflow
